@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main">#EEE7FF</color>
+    <color name="grey">#D5D5D7</color>
+    <color name="purp">#7443ED</color>
+    <color name="purp1">#D3C4F6</color>
+    <color name="MainPurple">#7645ee</color>
+    <color name="secpurple">#6d3ae7</color>
+    <color name="orange">#F97D27</color>
+    <color name="profiletext">#524F59</color>
+    <item android:color="#BCA3F6" android:state_selected="true" name="purple" type="id" />
+    <item android:color="#FFFFFF" android:state_selected="false" name="simple" type="id" />
+</resources>

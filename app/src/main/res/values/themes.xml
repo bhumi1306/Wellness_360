@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Wellness360" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/MainPurple</item>
+        <item name="colorPrimaryVariant">@color/secpurple</item>
+    </style>
+
+    <style name="Theme.Wellness360" parent="Base.Theme.Wellness360" />
+</resources>

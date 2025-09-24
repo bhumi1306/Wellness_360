@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:title="@string/menu_home"
+        android:icon="@drawable/lotus"/>
+    <item
+        android:id="@+id/item2"
+        android:title="@string/menu_diary"
+        android:icon="@drawable/diary"/>
+    <item
+        android:id="@+id/item3"
+        android:title="@string/menu_plans"
+        android:icon="@drawable/lightbulb"/>
+    <item
+        android:id="@+id/item4"
+        android:title="@string/menu_profile"
+        android:icon="@drawable/user"/>
+</menu>

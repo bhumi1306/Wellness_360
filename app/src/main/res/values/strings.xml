@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wellness360</string>
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_diary">Diary</string>
+    <string name="menu_plans">Plans</string>
+    <string name="menu_profile">Profile</string>
+    <string name="plan1"><u>Meditation with calm music</u></string>
+    <string name="plan2"><u>7000 Steps a day</u></string>
+    <string name="plan3"><u>Your Healthy Meal</u></string>
+    <string name="web_client_id">961999398444-59q3mskg72oekfd27tkpielhko7748lk.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">731779642126448</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">e95277ed01928553e0bf5ffb8b031dcd</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity3">
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="150dp"
+      ></FrameLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_gravity="start"
+        android:layout_marginTop="-150dp"
+        android:layout_marginBottom="-30dp"
+        android:background="@drawable/backg"
+        app:itemIconSize="40dp"
+        app:itemIconTint="@color/nav_color"
+        app:itemPaddingBottom="45dp"
+        app:itemPaddingTop="70dp"
+        app:itemTextColor="@color/nav_color"
+        app:menu="@menu/bottom_nav_menu">
+
+        <android.widget.SearchView
+            android:id="@+id/sv"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="75dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="70dp"
+            android:layout_marginBottom="150dp"
+            android:background="@drawable/rounded"
+            android:iconifiedByDefault="false"
+            android:queryHint="Search for food" />
+
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+</LinearLayout>
