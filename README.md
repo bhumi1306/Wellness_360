@@ -53,3 +53,93 @@ A comprehensive **HealthCare & Fitness application** designed to help users lead
    Add them in the project configuration files (strings.xml or constants).
 
 5. Build and run on an emulator or Android device.
+
+## Project Screenshots
+
+### Splash Screen
+
+<table>
+  <tr>
+    <td>
+      <img src="images/Splash.png" alt="Splash Screen" width="300"/>
+      <p align="center">Splash Screen</p>
+    </td>
+  </tr>
+</table>
+
+### Home Screen
+This is the main home screen where users can see their dashboard and quick reads.
+
+<table>
+  <tr>
+    <td>
+      <img src="images/Home.png" alt="Home Screen" width="300"/>
+      <p align="center">Home Screen</p>
+    </td>
+    <td>
+      <img src="images/Dashboard.png" alt="Home Screen Dashboard" width="300"/>
+      <p align="center">Dashboard</p>
+    </td>
+  </tr>
+</table>
+
+
+### Sign In and Sign Up Screens
+The login screen allows users to authenticate using email and password or using Google/Twitter(X)/Facebook.
+The sign up screen allows users to create a new account using username, email and password.
+
+<table>
+  <tr>
+    <td>
+      <img src="images/Login.png" alt="Login Screen" width="300"/>
+      <p align="center">Login Screen</p>
+    </td>
+    <td>
+      <img src="images/SignUp.png" alt="SignUp Screen" width="300"/>
+      <p align="center">SignUp</p>
+    </td>
+  </tr>
+</table>
+
+### Diary Screen
+Users can add food enteries to their daily diary.
+
+<table>
+  <tr>
+    <td>
+      <img src="images/Diary.png" alt="Login Screen" width="300"/>
+      <p align="center">Diary Screen</p>
+    </td>
+  </tr>
+</table>
+
+### Plans Screen
+Users can choose and start any health plan.
+
+<table>
+  <tr>
+    <td>
+      <img src="images/Plans.png" alt="Plans Screen" width="300"/>
+      <p align="center">Plans Screen</p>
+    </td>
+  </tr>
+</table>
+
+### Profile Screen and Goals section
+Users can update their profile,and change settings.
+Users can select any goal to achieve.
+
+<table>
+  <tr>
+    <td>
+      <img src="images/Profile.png" alt="Profile Screen" width="300"/>
+      <p align="center">Profile Screen</p>
+    </td>
+     <td>
+      <img src="images/Goals.png" alt="Goals" width="300"/>
+      <p align="center">Goals</p>
+    </td>
+  </tr>
+</table>
+
+
